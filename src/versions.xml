@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <versions>
+	<version value="872" string="Tibia 8.72" dat="4DAD1A1A" spr="4DAD1A32" otb="25"/>
+	<version value="873" string="Tibia 8.73" dat="4DBAA20B" spr="4DAD1A32" otb="26"/>
+	<version value="900" string="Tibia 9.00" dat="4DBAA20B" spr="4DAD1A32" otb="27"/>
+	<version value="910" string="Tibia 9.10" dat="4E12DAFF" spr="4E12DB27" otb="28"/>
+	<version value="920" string="Tibia 9.20" dat="4E807C08" spr="4E807C23" otb="29"/>
+	<version value="940" string="9.40" dat="4EE71DE5" spr="4EE71E06" otb="30"/>
+	<version value="944" string="9.44 (old)" dat="4F0EEFBB" spr="4F0EEFEF" otb="31"/>
+	<version value="9441" string="9.44 v1" dat="4F105168" spr="4F1051D7" otb="32"/>
+	<version value="9442" string="9.44 v2" dat="4F16C0D7" spr="4F1051D7" otb="33"/>
+	<version value="9443" string="9.44 v3" dat="4F3131CF" spr="4F3131F6" otb="34"/>
+	<version value="946" string="9.46" dat="4F6B341F" spr="4F5DCEF7" otb="35"/>
+	<version value="950" string="9.50" dat="4F75B7AB" spr="4F75B7CD" otb="36"/>
+	<version value="952" string="9.52" dat="4F857F6C" spr="4F857F8E" otb="37"/>
+	<version value="953" string="9.53" dat="4FA11252" spr="4FA11282" otb="38"/>
+	<version value="954" string="9.54" dat="4FD5956B" spr="4FD595B7" otb="39"/>
 	<version value="960" string="9.60" dat="4FFA74CC" spr="4FFA74F9"  otb="40"/>
 	<version value="961" string="9.61" dat="50226F9D" spr="50226FBD"  otb="41"/>
 	<version value="963" string="9.63" dat="503CB933" spr="503CB954"  otb="42"/>
